@@ -39,7 +39,6 @@ function activate(context) {
             } else {
                 term = vscode.window.activeTerminal;
             }
-            message = command;
             term.show();
             term.sendText(command);
         });
