@@ -3,7 +3,12 @@
   "displayName": "Cookiecutter",
   "description": "Just launch cookiecutter for project creation",
   "version": "0.1.1",
-  "publisher": "gxiao",
+  "publisher": "gong-xiao",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1e415e",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.11.0"
   },
