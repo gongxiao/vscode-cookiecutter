@@ -2,8 +2,8 @@
   "name": "cookiecutter",
   "displayName": "Cookiecutter",
   "description": "Just launch cookiecutter for project creation",
-  "version": "0.1.1",
-  "publisher": "gong-xiao",
+  "version": "0.1.2",
+  "publisher": "gxiao",
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#1e415e",
