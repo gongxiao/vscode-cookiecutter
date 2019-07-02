@@ -24,7 +24,7 @@
     "menus": {
       "explorer/context": [
         {
-          "when": "filesExplorerFocus",
+          "when": "explorerResourceIsFolder",
           "command": "extension.cookiecutter"
         }
       ]
