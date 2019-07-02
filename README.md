@@ -22,5 +22,10 @@ Visual Studio Code extension for running [cookiecutter](https://github.com/audre
 
 * install the extension.
 
+## TODOs
+
+* when create new terminal should wait for input
+* add operation demo GIF
+
 [Bug Reports](https://github.com/gongxiao/vscode-cookiecutter/issues)  
 [Repo](https://github.com/gongxiao/vscode-cookiecutter)
